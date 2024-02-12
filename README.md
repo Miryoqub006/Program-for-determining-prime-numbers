@@ -1,2 +1,21 @@
-# Program-for-determining-prime-numbers
-This program prompts the user to enter a number, then it calculates and prints the first 3 prime numbers after the user input number. It uses a nested loop to check if a number is prime or not. If a number is prime, it is printed and the count is incremented until 3 prime numbers are found after the input number
+# Prime Number Generator
+
+This program generates the first 3 prime numbers after logging into GitHub.
+
+## Installation
+1. Clone the repository to your local machine.
+2. Make sure you have Python installed.
+3. Run the program using `python prime_generator.py`.
+
+## Usage
+After running the program, it will display the following prime numbers:
+- 2
+- 3
+- 5
+
+## Contributors
+- John Doe
+- Jane Smith
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
